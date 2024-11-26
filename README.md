@@ -26,7 +26,7 @@ L'objectif de ce projet est de reproduire et d'analyser l'algorithme suivant pr�
 ---
 
 ## **Structure du dépôt**
-- **notebook/** : Ccntient le notebook Jupyter documentant la preueve de concept étape par étape.  
+- **notebook/** : le notebook Jupyter documentant la preueve de concept étape par étape.  
 - **data/** : inclut les jeux de données utilisés pour l'entraînement et les tests.  
   - `input_samples/` : données d'entrée pour l'algorithme.  
   - `outputs/` : résultats générés et sorties.  
@@ -35,14 +35,3 @@ L'objectif de ce projet est de reproduire et d'analyser l'algorithme suivant pr�
 - **requirements.txt** : liste des dépendances nécessaires pour exécuter le projet.  
 
 ---
-
-## **Prise en main**
-
-### **Prérequis**  
-Assurez-vous d'avoir Python 2.7, installé sur votre système.
-
-### **Installation**  
-1. Clonez le dépôt :  
-   ```bash
-   git clone https://github.com/Jaafare-Elabbar-AMSS/PoC_Learning_Moore_Machines_from_input-output_traces.git  
-   cd PoC_Learning_Moore_Machines_from_input-output_traces  
