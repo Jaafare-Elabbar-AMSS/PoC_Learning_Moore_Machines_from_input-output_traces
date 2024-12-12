@@ -1,0 +1,14 @@
+// Moore Machine
+digraph {
+	rankdir=LR
+	init [shape=point style=invis]
+	B0 [label="B0\noutput=0" shape=ellipse]
+	B4 [label="B4\noutput=1" shape=ellipse]
+	init -> B0
+	B0 -> B0 [label=a]
+	B0 -> B0 [label=b]
+	B0 -> B0 [label=c]
+	B4 -> B0 [label=a]
+	B4 -> B0 [label=b]
+	B4 -> B0 [label=c]
+}
