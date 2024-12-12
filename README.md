@@ -25,13 +25,8 @@ L'objectif de ce projet est de reproduire et d'analyser l'algorithme suivant pr�
 
 ---
 
-## **Structure du dépôt**
-- **notebook/** : le notebook Jupyter documentant la preueve de concept étape par étape.  
-- **data/** : inclut les jeux de données utilisés pour l'entraînement et les tests.  
-  - `input_samples/` : données d'entrée pour l'algorithme.  
-  - `outputs/` : résultats générés et sorties.  
-- **script/** : tout script supplémentaires servant à l'implémentation ou au test de l'algorithme.  
-- **README.md** : fichier décrivant le projet.  
-- **requirements.txt** : liste des dépendances nécessaires pour exécuter le projet.  
+## Références
 
----
+- Giantamidis, G., Tripakis, S., & Basagiannis, S. (2021). *Learning Moore machines from input–output traces*. International Journal on Software Tools for Technology Transfer, 23(1), 1–29. [https://doi.org/10.1007/s10009-019-00544-0](https://doi.org/10.1007/s10009-019-00544-0)
+
+- Dépôt GitHub de référence : [https://github.com/ggiorikas/FSM-learning](https://github.com/ggiorikas/FSM-learning)
