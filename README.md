@@ -1,4 +1,4 @@
-# **Preuve de concept : Learning Moore Machines from Input-Output tarces**
+# **Preuve de concept : Learning Moore Machines from Input-Output tarces (algorithme MooreMI)**
 
 ## **Aperçu du projet**  
 Ce dépôt documente la mise en œuvre d’une Preuve de Concept (PoC) pour vérifier la reproductibilité d'un algorithme présenté dans l'article de recherche suivant :  
