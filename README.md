@@ -1,5 +1,11 @@
 # **Preuve de concept : Learning Moore Machines from Input-Output tarces (algorithme MooreMI)**
 
+## **Références**
+
+- Giantamidis, G., Tripakis, S., & Basagiannis, S. (2021). *Learning Moore machines from input–output traces*. International Journal on Software Tools for Technology Transfer, 23(1), 1–29. [https://doi.org/10.1007/s10009-019-00544-0](https://doi.org/10.1007/s10009-019-00544-0)
+
+- Dépôt GitHub de référence : [https://github.com/ggiorikas/FSM-learning](https://github.com/ggiorikas/FSM-learning)
+
 ## **Aperçu du projet**  
 Ce dépôt documente la mise en œuvre d’une Preuve de Concept (PoC) pour vérifier la reproductibilité d'un algorithme présenté dans l'article de recherche suivant :  
 
@@ -25,8 +31,4 @@ L'objectif de ce projet est de reproduire et d'analyser l'algorithme suivant pr�
 
 ---
 
-## Références
 
-- Giantamidis, G., Tripakis, S., & Basagiannis, S. (2021). *Learning Moore machines from input–output traces*. International Journal on Software Tools for Technology Transfer, 23(1), 1–29. [https://doi.org/10.1007/s10009-019-00544-0](https://doi.org/10.1007/s10009-019-00544-0)
-
-- Dépôt GitHub de référence : [https://github.com/ggiorikas/FSM-learning](https://github.com/ggiorikas/FSM-learning)
